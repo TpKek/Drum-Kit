@@ -56,6 +56,3 @@ The project is organized into a single-directory architecture to ensure rapid DO
 ## 🔧 Installation & Usage
 
 1. **Download/Clone**: Download the project files or clone the repository to your local machine.
-   ```bash
-   git clone [your-repository-link]
-   ```
